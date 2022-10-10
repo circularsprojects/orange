@@ -4,3 +4,5 @@ i made this solely to piss off my friends\
 it also needs an overlord.txt file with an id in it\
 uhh use !cmds\
 (yes i know about slash commands but i fucking hate them)
+
+also needs an .env file with a TOKEN= in it
